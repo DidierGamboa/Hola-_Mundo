@@ -10,7 +10,7 @@ namespace Proyecto_1___Hola_Mundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine (" Clash Of Clans ");
+            Console.WriteLine (" Hola Mundo ");
             Console.ReadKey ( true );
         }
     }

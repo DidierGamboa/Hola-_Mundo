@@ -4,3 +4,9 @@ c:\users\lacer\documents\visual studio 2013\Projects\Proyecto 1 - Hola Mundo\Pro
 c:\users\lacer\documents\visual studio 2013\Projects\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\bin\Debug\Proyecto 1 - Hola Mundo.pdb
 c:\users\lacer\documents\visual studio 2013\Projects\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\obj\Debug\Proyecto 1 - Hola Mundo.exe
 c:\users\lacer\documents\visual studio 2013\Projects\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\obj\Debug\Proyecto 1 - Hola Mundo.pdb
+C:\Users\Lacer\Documents\GitHub\Hola-_Mundo\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\bin\Debug\Proyecto 1 - Hola Mundo.exe.config
+C:\Users\Lacer\Documents\GitHub\Hola-_Mundo\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\obj\Debug\Proyecto 1 - Hola Mundo.exe
+C:\Users\Lacer\Documents\GitHub\Hola-_Mundo\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\obj\Debug\Proyecto 1 - Hola Mundo.pdb
+C:\Users\Lacer\Documents\GitHub\Hola-_Mundo\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\bin\Debug\Proyecto 1 - Hola Mundo.exe
+C:\Users\Lacer\Documents\GitHub\Hola-_Mundo\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\bin\Debug\Proyecto 1 - Hola Mundo.pdb
+C:\Users\Lacer\Documents\GitHub\Hola-_Mundo\Proyecto 1 - Hola Mundo\Proyecto 1 - Hola Mundo\obj\Debug\Proyecto 1 - Hola Mundo.csprojResolveAssemblyReference.cache
